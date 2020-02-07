@@ -2,6 +2,8 @@
     "workbench.colorTheme": "Material Theme Darker High Contrast",
     "workbench.iconTheme": "material-icon-theme",
     "workbench.panel.defaultLocation": "right",
+    "terminal.integrated.fontSize": 13,
     "editor.tabSize": 2,
-    "editor.fontFamily": "'Roboto Mono'"
+    "editor.fontFamily": "'Roboto Mono'",
+    "editor.fontSize": 13
 }
