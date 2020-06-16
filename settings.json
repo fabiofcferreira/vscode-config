@@ -25,7 +25,7 @@
         "selection.background": "#80CBC440"
     },
     "materialTheme.accent": "Teal",
-    "workbench.colorTheme": "Community Material Theme Darker High Contrast",
+    "workbench.colorTheme": "Material Theme Darker High Contrast",
     "material-icon-theme.activeIconPack": "vue_vuex",
     "workbench.panel.defaultLocation": "right",
     "terminal.integrated.fontSize": 13,
