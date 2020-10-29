@@ -30,6 +30,11 @@
     "workbench.panel.defaultLocation": "right",
     "terminal.integrated.fontSize": 13,
     "editor.tabSize": 2,
-    "editor.fontFamily": "'Roboto Mono'",
+    "editor.fontFamily": "Fira Code",
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "window.zoomLevel": 0,
+    "go.useLanguageServer": true,
+    "javascript.updateImportsOnFileMove.enabled": "always",
     "editor.fontSize": 13
 }
